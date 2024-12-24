@@ -51,11 +51,28 @@
 ## 📖 Publications  
 🔗 **[View All Publications on Google Scholar](https://scholar.google.com/citations?user=CBICc64AAAAJ&hl=tr)**  
 
+- **Abc-based weighted voting deep ensemble learning model for multiple eye disease detection**  
+  *Q1 Journal*: Biomedical Signal Processing and Control, Volume 96, 2024  
+
+- **Almond (Prunus dulcis) varieties classification with genetic designed lightweight CNN architecture**  
+  *Q2 Journal*: European Food Research and Technology, 2024  
+
+- **Flower Pollination Algorithm-Optimized Deep CNN Features for Almond (Prunus dulcis) Classification**  
+
 - **Acoustic Signal Analysis with Deep Neural Network for Detecting Fault Diagnosis in Industrial Machines**  
-- **CNN Hyperparameter Optimization by Jaya**  
-- **Classification of Upper Extremity Bones with Ensemble Machine Learning Methods by CNN-based Feature Extraction**  
+  *arXiv Preprint*: arXiv:2312.01062, 2023  
+
+- **Meta-Heuristic Algorithms with Convolutional Neural Network Architecture Hyperparameter Optimization**  
+
+- **Chestnut (Castanea Sativa) Varieties Classification with Harris Hawks Optimization based Selected Features and SVM**  
+
+- **Agility-based CNN Ensemble for Colorectal Cancer Detection**  
+
+- **Fuzzy Logic Based Low Cost Mobile Alert System for Asthma and COPD Patients**  
+
 - **Brain Tumor Detection with Ensemble of Convolutional Neural Networks and Vision Transformer**  
-- **Vision Transformer-based Automatic Detection of Covid-19 in the Chest X-ray Images**  
+
+- **Vision Transformer-based Automatic Detection of COVID-19 in Chest X-ray Images**  
 
 ---
 
