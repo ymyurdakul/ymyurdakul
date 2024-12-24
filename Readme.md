@@ -32,19 +32,19 @@
 ## 📂 Other Projects
 
 - 🧮 **[Knapsack Problem with Genetic Algorithm](https://github.com/ymyurdakul/Knapsack-Problem-With-Genetic-Algorithm)**  
-  0-1 (Bit) tabanlı knapsack probleminin çözümü ve yakınsama grafiği.  
+  Solution for the 0-1 Knapsack problem with genetic algorithm and convergence graph.
 
-- 📚 **[Kurs Takip Otomasyonu](https://github.com/ymyurdakul/Kurs-Takip-Otomasyonu)**  
-  Java ve Hibernate kullanarak geliştirilmiş bir takip programı.  
+- 📚 **[Course Tracking Automation](https://github.com/ymyurdakul/Kurs-Takip-Otomasyonu)**  
+  A course tracking program developed using Java and Hibernate.
 
-- 🧩 **[8-Puzzle A* Algoritması](https://github.com/ymyurdakul/8-Puzzle-A-Star)**  
-  8 Puzzle probleminin A* algoritması ile çözümü.  
+- 🧩 **[8-Puzzle A* Algorithm](https://github.com/ymyurdakul/8-Puzzle-A-Star)**  
+  Solution to the 8 Puzzle problem using the A* algorithm.
 
-- 🧼 **[Bulanık Mantık Çamaşır Makinesi](https://github.com/ymyurdakul/Bulanik-Mantik-Camasir-Makinesi)**  
-  C# ile geliştirilmiş bulanık mantık tabanlı çamaşır makinesi uygulaması.  
+- 🧼 **[Fuzzy Logic Washing Machine](https://github.com/ymyurdakul/Bulanik-Mantik-Camasir-Makinesi)**  
+  A washing machine application developed using fuzzy logic in C#.
 
-- 🍎 **[Beslenme Asistanım Yönetim Paneli](https://github.com/ymyurdakul/Beslenme-Asistanim-Yonetim-Paneli)**  
-  TypeScript kullanarak geliştirilmiş beslenme asistanı yönetim paneli.  
+- 🍎 **[Nutrition Assistant Management Panel](https://github.com/ymyurdakul/Beslenme-Asistanim-Yonetim-Paneli)**  
+  Nutrition assistant management panel developed using TypeScript.
 
 ---
 
@@ -62,11 +62,11 @@
 ## 👨‍🎓 Education
 
 - 🎓 **Doctorate (Ongoing)**  
-  - Selçuk Üniversitesi, Bilgisayar Mühendisliği  
+  - Selçuk University, Computer Engineering  
 - 🎓 **Master's Degree (2022)**  
-  - Selçuk Üniversitesi, Bilgisayar Mühendisliği  
+  - Selçuk University, Computer Engineering  
 - 🎓 **Bachelor's Degree (2020)**  
-  - Selçuk Üniversitesi, Bilgisayar Mühendisliği  
+  - Selçuk University, Computer Engineering  
 
 ---
 
