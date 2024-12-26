@@ -16,14 +16,14 @@
 ---
 
 ### 📊 [MaxGlaViT](https://github.com/ymyurdakul/MaxGlaViT)
-🌟 **Description**: Implementation of GLA-ViT for advanced vision tasks with transformers.  
+🌟 **Description**: Implementation of MaxGlaViT for advanced vision tasks with transformers.  
 🛠️ **Tech Stack**: Python, PyTorch  
 📅 **Last Updated**: 30 minutes ago  
 
 ---
 
 ### 🧠 [ROPGCViT (Private Repository)]
-🌟 **Description**: Research on Region of Interest (ROI)-based ViT models with cutting-edge performance for computer vision.  
+🌟 **Description**: Research on ROP, ViT models with cutting-edge performance for computer vision.  
 🛠️ **Tech Stack**: Python, PyTorch, Vision Transformers  
 📅 **Last Updated**: 37 minutes ago  
 
