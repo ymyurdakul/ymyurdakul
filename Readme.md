@@ -96,12 +96,6 @@
 
 ---
 
-## 📬 Contact
 
-Feel free to reach out for potential collaborations, research opportunities, or to discuss ongoing projects and publications.  
-
-- 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto:mustafayurdakul@kku.edu.tr)  
-- 🌐 **Website**: [mustafayurdakul.com.tr](https://mustafayurdakul.com.tr/)  
-- 📞 **Phone**: +90 552 805 66 18  
 
 ---  
